@@ -32,4 +32,4 @@ This project helped me practice using React! I remember having trouble managing 
 
 - [@greatandrewhan](https://www.github.com/greatandrewhan)
 
-![Alt text](/flashcard-front.jpg?raw=true "Pizza Front")
+![Alt text](/flashcard-front.jpg?raw=true "Flashcard")
