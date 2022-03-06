@@ -31,3 +31,5 @@ This project helped me practice using React! I remember having trouble managing 
 ## Authors
 
 - [@greatandrewhan](https://www.github.com/greatandrewhan)
+
+![Alt text](/flashcard-front.jpg?raw=true "Pizza Front")
