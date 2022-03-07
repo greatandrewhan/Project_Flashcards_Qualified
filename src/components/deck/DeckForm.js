@@ -19,7 +19,7 @@ function DeckForm({ deck, handleChange, handleSubmit, handleCancel }) {
           value={deck.name}
           onChange={handleChange}
           placeholder='Deck Name'
-          maxlength='100'
+          maxLength='100'
           required
         />
       </div>
@@ -40,7 +40,7 @@ function DeckForm({ deck, handleChange, handleSubmit, handleCancel }) {
           type='text'
           onChange={handleChange}
           placeholder='Brief description of the deck'
-          maxlength='500'
+          maxLength='500'
           required
         />
       </div>
